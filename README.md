@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="center">Hey there 👋<br>I am fresher<br>I'm currently working on software Devlopment<br>I'm looking for help DevOps<br>How to reach me:taniamehta206@gmail.com,taniamehta035@gmail.com</h4>
+<h4 align="center">Hey there 👋<br>I am fresher<br>I'm currently working on software Devlopment<br>I'm looking for help DevOps<br>How to reach me:taniamehta206@gmail.com,taniamehta305@gmail.com</h4>
 
 ###
 
